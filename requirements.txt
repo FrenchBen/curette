@@ -1,5 +1,5 @@
 beautifulsoup4==4.8.2
 pylint==2.4.4
-requests==2.23.0
+requests==2.31.0
 # pyrebase==3.0.27
 firebase-admin==4.0.1
